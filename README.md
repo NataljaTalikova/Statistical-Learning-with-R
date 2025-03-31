@@ -67,5 +67,5 @@ The exploratory script is included in this repository to reflect the full proces
 
 ---
 
-*Author: [Natalja Talikova]*  
-*MSc [Quantitative Finance with Data Science], [Birkbeck, London, UK], 2025*
+*Author: Natalja Talikova*  
+*MSc Quantitative Finance with Data Science, Birkbeck, London, UK, 2025*
