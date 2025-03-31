@@ -1,9 +1,7 @@
 # Statistical Learning Coursework – Critical Review & Loan Default Classification (2025)
 
-This repository contains my final coursework for the **Statistical Learning with R** module, completed in 2025.
+The submission consisted of two parts: a critical review and a machine learning analysis task, both included in the final report. Despite a 10% late submission penalty (see note below), the work itself was awarded a **full 100% grade**. 
 
-The submission consisted of two parts: a critical review and a machine learning analysis task, both included in the final report.
-Despite a 10% late submission penalty (see note below), the work itself was awarded a **full 100% grade**, reflecting both technical depth and analytical clarity. 
 ---
 
 ## 🧠 Task 1: Critical Review of LSTM Neural Network in Finance
