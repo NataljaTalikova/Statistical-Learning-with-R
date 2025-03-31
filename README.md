@@ -4,15 +4,15 @@ The submission consisted of two parts: a critical review and a machine learning 
 
 ---
 
-## 🧠 Task 1: Critical Review of LSTM Neural Network in Finance
+## 🧠 Task 1: Critical Review of Neural Network (LSTM) Application to Financial Time Series
 
-This task involved a critical review of a 2022 article published in *Machine Learning and Applications*, where the authors used an **LSTM neural network** to forecast **next-day returns for the S&P 500 index**.
+This task involved a critical review of a 2022 article published in *Machine Learning and Applications*, where the authors used an **Long Short-Term Memory neural network** to forecast **next-day returns for the S&P 500 index**.
 
 I identified and explained a serious flaw in the paper's methodology — specifically, **data leakage** due to incorrect input preparation, which invalidated the model’s reported performance. 
 
 ---
 
-## 📊 Task 2: Loan Default Classification (R)
+## 📊 Task 2: Loan Default, Binary Classification (R)
 
 The second task required applying **two machine learning methods**, preferably from those taught in class, to a real-world dataset.
 
